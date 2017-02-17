@@ -9,9 +9,10 @@ h1 {
 .container {
   position: relative;
   border: 2px solid black;
+  padding: 10px;
   margin: 10px;
   background: gray;
-
+  height: auto;
 }
 #p1 {
   border: 2px solid black;
